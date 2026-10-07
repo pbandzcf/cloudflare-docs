@@ -1,0 +1,19 @@
+src/content/changelog/casb/2026-10-07-casb-terraform-integrations.mdx
+  s_d80762a03eec5c::t_f7467736cb0140 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "baf13c05b55accffa999afae4936d9f14da6a5a2",
+  "prompts": {},
+  "sessions": {
+    "s_d80762a03eec5c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee90e1ff9ffegx8T4xcYp434sr",
+        "model": "gpt-5.6"
+      },
+      "human_author": "Peter Bandziukas <pbandziukas@cloudflare.com>"
+    }
+  }
+}
